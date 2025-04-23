@@ -8,7 +8,7 @@ This project is a PyQtGraph-based application for image segmentation. The projec
 To run the application, use the following command:
 
 ```bash
-python segmentpy.py
+python segmentation.py
 ```
 
 ## License
