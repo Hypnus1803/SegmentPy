@@ -1,6 +1,6 @@
 # My PyQtGraph Project
 
-This project is a PyQtGraph-based application for image segmentation. The project is in a very initial state, but is working to perform a good quality solar granule segmentation. Tests are under construction, avoid them in this moment.
+This project is a PyQtGraph-based application for image segmentation. The project is in a very initial state, but is working to perform a good quality solar granule segmentation. 
 
 
 ## Usage
